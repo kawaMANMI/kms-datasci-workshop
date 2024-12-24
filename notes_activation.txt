@@ -1,0 +1,14 @@
+conda create -n datasci python=3.12 pandas numpy matplotlib
+
+
+
+# To activate this environment, use
+#
+#     $ conda activate datasci
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+
+
